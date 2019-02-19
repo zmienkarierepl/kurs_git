@@ -1,0 +1,31 @@
+{
+  "name": "gitex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "ex1.1": "jest ex1/ex1.1",
+    "ex1.2": "jest ex1/ex1.2",
+    "ex2.1": "jest ex2/ex2.1",
+    "ex2.2": "jest ex2/ex2.2",
+    "ex4.prepare": "node ex4/prepare",
+    "ex4.1": "jest ex4/ex4.1",
+    "ex4.2": "jest ex4/ex4.2",
+    "ex4.3": "jest ex4/ex4.3",
+    "ex5.1": "jest ex5/ex5.1",
+    "ex5.2": "jest ex5/ex5.2",
+    "ex5.3": "jest ex5/ex5.3",
+    "ex6.prepare": "node ex6/prepare",
+    "ex6"  : "jest ex6/ex6"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "latest",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
