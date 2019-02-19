@@ -46,11 +46,15 @@ Repozytorium zawiera zestaw ćwiczeń praktycznych które pozwolą sprawdzić Ci
 
  Komendą log sprawdź historię tego repozytorium. Odpowiedz na następujące pytania : 
      1) Jaki komentarz został wpisany do commit-a 3b0a190
-     2) 
+     2) Kto jest autorem commit-a 9ccf2a4 
 
 #### Zadanie 7 
- 
+  
+  Porównaj ze sobą commit bc5f31a i 5676ab5. Zaznacz prawidłową odpowiedź.
+      
 #### Zadanie 8
+
+  Za pomocą komendy checkout cofnij się do ostatniego snapshota zawierającego plik secret.txt. Za pomocą komendy blame znajdź autora drugiej linijki pliku.
 
 #### Przed wykonaniem Zadania 9 i 10 i 11
 
