@@ -42,7 +42,11 @@ Repozytorium zawiera zestaw ćwiczeń praktycznych które pozwolą sprawdzić Ci
  
  `npm run ex2.2 --path='../myGitRepo'`
  
-#### Zadanie 6 
+#### Zadanie 6
+
+ Komendą log sprawdź historię tego repozytorium. Odpowiedz na następujące pytania : 
+     1) Jaki komentarz został wpisany do commit-a 3b0a190
+     2) 
 
 #### Zadanie 7 
  
